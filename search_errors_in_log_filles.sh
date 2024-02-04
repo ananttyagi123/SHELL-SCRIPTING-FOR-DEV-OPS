@@ -26,6 +26,8 @@ $ wget
 
 # the wget command is used to store the APi data to the log file 
 
+# end of file
+
 
 
 
